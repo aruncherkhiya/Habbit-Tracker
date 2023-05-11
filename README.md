@@ -1,6 +1,4 @@
-# Habit-Tracker
 
--  Coding Ninjas Skill Test Assignment
 
 
 
